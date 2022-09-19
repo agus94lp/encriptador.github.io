@@ -16,3 +16,5 @@ La letra "o" es convertida en "ober"
 La letra "u" es convertida en "ufat"
 
 Por ejemplo: "gato" => "gaitober" gaitober" => "gato"
+
+Página -> https://agus94lp.github.io/encriptador.github.io/
